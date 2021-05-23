@@ -1,0 +1,38 @@
+allNamedHomes:
+  947adae0-b57c-3011-b868-5804ccdb5cba:
+    SFarm:
+      world: world
+      x: -83.92276612560563
+      y: 12.0
+      z: -231.785130362664
+      pitch: 13.460941
+      yaw: 256.0553
+    exp:
+      world: world_nether
+      x: -4.014456635401295
+      y: 238.125
+      z: -152.7562528203543
+      pitch: 17.250015
+      yaw: 3.601532
+    endportal:
+      world: world
+      x: -1065.1732208567253
+      y: 44.0
+      z: 1369.9079708939057
+      pitch: 11.999993
+      yaw: -173.39949
+    iron:
+      world: world
+      x: 48.93744658894192
+      y: 81.0
+      z: -195.13530543995614
+      pitch: 16.50047
+      yaw: 52.8432
+unknownHomes:
+  947adae0-b57c-3011-b868-5804ccdb5cba:
+    world: world
+    x: 12.135592110721804
+    y: 65.0
+    z: -205.62313420657847
+    pitch: 7.499869
+    yaw: 22.350595

@@ -1,0 +1,36 @@
+lastAccountName: cold9999
+timestamps:
+  login: 1621750412101
+  kits:
+    startingkit: 1619271088836
+  logout: 1621754505479
+ipAddress: 61.80.6.222
+logoutlocation:
+  world: world
+  x: 39.624163562078955
+  y: 63.0
+  z: -192.618569013031
+  yaw: -169.46547
+  pitch: 12.1503315
+lastlocation:
+  world: world
+  x: 14.508437306019943
+  y: 71.0
+  z: -198.2920138626096
+  yaw: -54.15668
+  pitch: 23.850449
+homes:
+  home:
+    world: world
+    x: 12.112987034990661
+    y: 65.0
+    z: -208.86036395881197
+    yaw: 22.050459
+    pitch: 90.0
+  exp:
+    world: world
+    x: 12.112987034990661
+    y: 65.0
+    z: -208.86036395881197
+    yaw: 22.050459
+    pitch: 90.0
